@@ -1,0 +1,5 @@
+outs:
+- md5: 962b836e0cddb5a9b8fbc9ab68712f78
+  size: 28230
+  hash: md5
+  path: sub-PT001_ses-1_run-1_fa_wm_mask.nii.gz

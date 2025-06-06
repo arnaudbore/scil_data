@@ -1,0 +1,5 @@
+outs:
+- md5: 6559779c2fb800d55c2f8dc136e3bb7c
+  size: 58751813
+  hash: md5
+  path: sub-PT001_ses-1_run-1__output1InverseWarp.nii.gz

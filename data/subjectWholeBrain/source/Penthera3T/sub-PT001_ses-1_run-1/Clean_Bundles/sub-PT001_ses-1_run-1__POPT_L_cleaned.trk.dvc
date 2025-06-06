@@ -1,0 +1,5 @@
+outs:
+- md5: 3d4f41467d782f4c8ab42aaf3f9c8f2b
+  size: 6311880
+  hash: md5
+  path: sub-PT001_ses-1_run-1__POPT_L_cleaned.trk

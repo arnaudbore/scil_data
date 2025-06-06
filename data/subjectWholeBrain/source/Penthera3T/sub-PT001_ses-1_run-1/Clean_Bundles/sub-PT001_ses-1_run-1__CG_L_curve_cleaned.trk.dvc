@@ -1,0 +1,5 @@
+outs:
+- md5: 688bb247288d0a62d6e1d9402fee9d02
+  size: 3892
+  hash: md5
+  path: sub-PT001_ses-1_run-1__CG_L_curve_cleaned.trk

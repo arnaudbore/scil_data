@@ -1,4 +1,4 @@
-FROM scilus/scilus:1.6.0
+FROM python:3.11-slim-bookworm
 
 RUN apt update && apt install -y \
         git \

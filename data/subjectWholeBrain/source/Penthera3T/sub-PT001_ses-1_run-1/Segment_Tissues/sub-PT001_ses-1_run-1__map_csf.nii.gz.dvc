@@ -1,0 +1,5 @@
+outs:
+- md5: a505af445ca28f2ec7cedbee18bfb222
+  size: 646903
+  hash: md5
+  path: sub-PT001_ses-1_run-1__map_csf.nii.gz

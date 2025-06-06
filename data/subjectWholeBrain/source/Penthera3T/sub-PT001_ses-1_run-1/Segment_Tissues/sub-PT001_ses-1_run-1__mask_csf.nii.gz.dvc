@@ -1,0 +1,5 @@
+outs:
+- md5: 98004005bb9bbe7d5200c439c37d18eb
+  size: 189303
+  hash: md5
+  path: sub-PT001_ses-1_run-1__mask_csf.nii.gz

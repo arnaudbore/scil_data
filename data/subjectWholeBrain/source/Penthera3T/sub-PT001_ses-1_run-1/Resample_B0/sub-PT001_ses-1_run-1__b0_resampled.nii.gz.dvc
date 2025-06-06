@@ -1,0 +1,5 @@
+outs:
+- md5: 60fb964bde35d140f8149cc690adeff7
+  size: 5577064
+  hash: md5
+  path: sub-PT001_ses-1_run-1__b0_resampled.nii.gz

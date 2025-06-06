@@ -1,0 +1,5 @@
+outs:
+- md5: b5c8495984762800b5814ef444a19951
+  size: 5818132
+  hash: md5
+  path: sub-PT001_ses-1_run-1__mode.nii.gz

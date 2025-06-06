@@ -1,0 +1,5 @@
+outs:
+- md5: c75aa354ab7cab21cce7ed9339d03ebd
+  size: 11831673
+  hash: md5
+  path: sub-PT001_ses-1_run-1__t1_warped.nii.gz

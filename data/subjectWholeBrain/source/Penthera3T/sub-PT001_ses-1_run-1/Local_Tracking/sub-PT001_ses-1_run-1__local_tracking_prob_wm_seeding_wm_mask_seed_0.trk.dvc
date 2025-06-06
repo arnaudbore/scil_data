@@ -1,0 +1,5 @@
+outs:
+- md5: 389551cc1d10e1a38e9e1519801b4185
+  size: 937775904
+  hash: md5
+  path: sub-PT001_ses-1_run-1__local_tracking_prob_wm_seeding_wm_mask_seed_0.trk

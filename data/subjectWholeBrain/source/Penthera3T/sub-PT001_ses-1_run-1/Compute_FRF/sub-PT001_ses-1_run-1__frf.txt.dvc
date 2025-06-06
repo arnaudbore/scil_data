@@ -1,0 +1,5 @@
+outs:
+- md5: 70f3313d168e2771c0bf74f5ba6a1839
+  size: 100
+  hash: md5
+  path: sub-PT001_ses-1_run-1__frf.txt

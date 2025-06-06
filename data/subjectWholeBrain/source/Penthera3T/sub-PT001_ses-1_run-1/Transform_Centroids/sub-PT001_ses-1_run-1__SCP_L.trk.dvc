@@ -1,0 +1,5 @@
+outs:
+- md5: 42bc97ad553bf71bc63c86a5885678f6
+  size: 5548
+  hash: md5
+  path: sub-PT001_ses-1_run-1__SCP_L.trk

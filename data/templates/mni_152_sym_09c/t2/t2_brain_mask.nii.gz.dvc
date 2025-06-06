@@ -1,0 +1,5 @@
+outs:
+- md5: c5059b09afa98db57eb3e83b7552c211
+  size: 78240
+  hash: md5
+  path: t2_brain_mask.nii.gz

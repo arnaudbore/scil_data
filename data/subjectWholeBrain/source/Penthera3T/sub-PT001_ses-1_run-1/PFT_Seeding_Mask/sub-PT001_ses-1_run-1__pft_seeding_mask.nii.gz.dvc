@@ -1,0 +1,5 @@
+outs:
+- md5: aba7f57a3e4b2af9d25a95979a6eb5ee
+  size: 179612
+  hash: md5
+  path: sub-PT001_ses-1_run-1__pft_seeding_mask.nii.gz

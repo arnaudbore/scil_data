@@ -1,0 +1,5 @@
+outs:
+- md5: e653aa2898b8a1198b49ba06395b2ab3
+  size: 7524
+  hash: md5
+  path: sub-PT001_ses-1_run-1__FPT_R_Brainstem.trk

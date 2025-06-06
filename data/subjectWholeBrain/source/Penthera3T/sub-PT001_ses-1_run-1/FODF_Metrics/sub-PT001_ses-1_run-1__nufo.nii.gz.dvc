@@ -1,0 +1,5 @@
+outs:
+- md5: aae1f9796eb48a9bec6eef1a32e81c02
+  size: 837359
+  hash: md5
+  path: sub-PT001_ses-1_run-1__nufo.nii.gz

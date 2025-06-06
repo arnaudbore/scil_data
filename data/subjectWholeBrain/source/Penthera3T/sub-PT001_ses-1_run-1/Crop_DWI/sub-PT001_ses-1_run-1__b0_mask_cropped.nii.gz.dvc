@@ -1,0 +1,5 @@
+outs:
+- md5: 0238af6778ab9d640e2dafbc46c47603
+  size: 16922
+  hash: md5
+  path: sub-PT001_ses-1_run-1__b0_mask_cropped.nii.gz

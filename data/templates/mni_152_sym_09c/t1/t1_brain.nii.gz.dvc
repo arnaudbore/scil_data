@@ -1,0 +1,5 @@
+outs:
+- md5: 1bac04be75af60f73d14aeea09d8b825
+  size: 4795171
+  hash: md5
+  path: t1_brain.nii.gz

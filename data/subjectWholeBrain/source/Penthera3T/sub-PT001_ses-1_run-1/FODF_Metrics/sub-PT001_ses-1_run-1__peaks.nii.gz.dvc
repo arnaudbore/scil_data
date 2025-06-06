@@ -1,0 +1,5 @@
+outs:
+- md5: be75e2b9c06850edbf065d46bf91d248
+  size: 15616193
+  hash: md5
+  path: sub-PT001_ses-1_run-1__peaks.nii.gz

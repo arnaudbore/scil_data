@@ -1,0 +1,5 @@
+outs:
+- md5: cc60a1681466682f58d4c06fd2a5bbf0
+  size: 5665737
+  hash: md5
+  path: fa.nii.gz

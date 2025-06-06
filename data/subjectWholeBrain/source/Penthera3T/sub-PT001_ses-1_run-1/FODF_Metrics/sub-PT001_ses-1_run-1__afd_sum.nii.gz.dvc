@@ -1,0 +1,5 @@
+outs:
+- md5: 10e28aa8bbb5cef47d23ad84f0145b83
+  size: 4049887
+  hash: md5
+  path: sub-PT001_ses-1_run-1__afd_sum.nii.gz

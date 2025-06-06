@@ -1,0 +1,5 @@
+outs:
+- md5: 9a4ab8c2f440bc055089998a39ef3720
+  size: 45904
+  hash: md5
+  path: sub-PT001_ses-1_run-1__MCP.trk

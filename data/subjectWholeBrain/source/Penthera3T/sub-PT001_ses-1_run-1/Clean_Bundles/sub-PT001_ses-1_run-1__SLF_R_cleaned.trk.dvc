@@ -1,0 +1,5 @@
+outs:
+- md5: 6656475e1e9501e484a6dc816b99990d
+  size: 16455088
+  hash: md5
+  path: sub-PT001_ses-1_run-1__SLF_R_cleaned.trk

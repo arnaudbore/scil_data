@@ -1,0 +1,4 @@
+/t2_brain_mask.nii.gz
+/t2_brain_probability_map.nii.gz
+/t2_brain_registration_mask.nii.gz
+/t2_template.nii.gz

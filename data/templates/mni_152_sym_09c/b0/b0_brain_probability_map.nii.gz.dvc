@@ -1,0 +1,5 @@
+outs:
+- md5: cff1b5ae9ae8fa7c02742f8a41cecb1d
+  size: 733444
+  hash: md5
+  path: b0_brain_probability_map.nii.gz

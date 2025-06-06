@@ -1,0 +1,5 @@
+outs:
+- md5: b02c50ac904deb86ed0da203ab954c6a
+  size: 3829050
+  hash: md5
+  path: t2_template.nii.gz

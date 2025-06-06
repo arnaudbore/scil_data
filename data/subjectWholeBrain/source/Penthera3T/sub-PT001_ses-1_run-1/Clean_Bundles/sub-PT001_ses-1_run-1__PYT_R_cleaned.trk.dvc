@@ -1,0 +1,5 @@
+outs:
+- md5: 8ca3a37026e1b50264497eb8ea6d8ba1
+  size: 19130680
+  hash: md5
+  path: sub-PT001_ses-1_run-1__PYT_R_cleaned.trk

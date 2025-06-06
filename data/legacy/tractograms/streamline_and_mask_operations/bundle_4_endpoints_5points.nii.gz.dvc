@@ -1,5 +1,5 @@
 outs:
-- md5: 1ce73658205c92abe41dd1c8cfce1747
-  size: 671
+- md5: fc9a638c9e23aeb6f831a76491882c4e
+  size: 662
   hash: md5
   path: bundle_4_endpoints_5points.nii.gz

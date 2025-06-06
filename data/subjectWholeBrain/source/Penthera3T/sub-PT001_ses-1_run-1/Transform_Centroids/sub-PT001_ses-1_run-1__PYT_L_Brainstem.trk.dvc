@@ -1,0 +1,5 @@
+outs:
+- md5: 9ade87d8fdded7412161c79d72652ddc
+  size: 4944
+  hash: md5
+  path: sub-PT001_ses-1_run-1__PYT_L_Brainstem.trk

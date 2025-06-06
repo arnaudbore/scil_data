@@ -1,0 +1,5 @@
+outs:
+- md5: ccf4bfa518c0227a7732d1a7adf92114
+  size: 4643
+  hash: md5
+  path: sub-PT001_ses-1_run-1__dwi_eddy_corrected.bvec

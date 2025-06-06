@@ -1,0 +1,5 @@
+outs:
+- md5: 8cbe160c453b332d956de1fb153a2c96
+  size: 5532
+  hash: md5
+  path: sub-PT001_ses-1_run-1__CG_L_curve.trk

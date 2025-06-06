@@ -1,0 +1,5 @@
+outs:
+- md5: 2b95803f3742d9ada45bd5acb1c11ae9
+  size: 12306
+  hash: md5
+  path: sub-PT001_ses-1_run-1__b0_bet_mask.nii.gz

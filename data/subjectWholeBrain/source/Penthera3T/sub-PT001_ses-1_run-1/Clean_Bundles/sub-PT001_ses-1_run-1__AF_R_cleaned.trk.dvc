@@ -1,0 +1,5 @@
+outs:
+- md5: fb25f471151ef1d72f04d70dd806984a
+  size: 52039000
+  hash: md5
+  path: sub-PT001_ses-1_run-1__AF_R_cleaned.trk

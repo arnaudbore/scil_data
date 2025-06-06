@@ -1,0 +1,5 @@
+outs:
+- md5: 8c028112d06c8127dbd8ba8b00515f8a
+  size: 7764812
+  hash: md5
+  path: sub-PT001_ses-1_run-1__FAT_L_cleaned.trk

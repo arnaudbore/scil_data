@@ -1,0 +1,5 @@
+outs:
+- md5: 06742dd1770a64e0d916ec1da3365ae7
+  size: 316
+  hash: md5
+  path: sub-PT001_ses-1_run-1__residual_mean_residuals.npy

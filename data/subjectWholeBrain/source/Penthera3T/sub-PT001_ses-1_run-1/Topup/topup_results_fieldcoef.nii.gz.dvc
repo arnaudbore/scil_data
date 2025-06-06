@@ -1,0 +1,5 @@
+outs:
+- md5: 11ba2873e84b3da28ad862d064318303
+  size: 429831
+  hash: md5
+  path: topup_results_fieldcoef.nii.gz

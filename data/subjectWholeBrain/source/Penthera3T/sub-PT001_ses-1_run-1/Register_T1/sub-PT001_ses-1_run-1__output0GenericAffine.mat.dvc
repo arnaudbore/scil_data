@@ -1,0 +1,5 @@
+outs:
+- md5: 93eca526c5ee2317e05d25c5245be896
+  size: 193
+  hash: md5
+  path: sub-PT001_ses-1_run-1__output0GenericAffine.mat

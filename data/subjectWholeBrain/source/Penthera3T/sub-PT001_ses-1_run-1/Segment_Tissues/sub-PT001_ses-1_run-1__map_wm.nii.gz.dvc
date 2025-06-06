@@ -1,0 +1,5 @@
+outs:
+- md5: 477d5b890cf6911cd389a40a8ba79324
+  size: 580750
+  hash: md5
+  path: sub-PT001_ses-1_run-1__map_wm.nii.gz

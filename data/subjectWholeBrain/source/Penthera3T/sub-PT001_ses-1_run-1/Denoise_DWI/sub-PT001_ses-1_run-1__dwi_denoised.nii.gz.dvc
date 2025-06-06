@@ -1,0 +1,5 @@
+outs:
+- md5: 2c3f460f74afd2f64f24cfe662653dfb
+  size: 139857418
+  hash: md5
+  path: sub-PT001_ses-1_run-1__dwi_denoised.nii.gz

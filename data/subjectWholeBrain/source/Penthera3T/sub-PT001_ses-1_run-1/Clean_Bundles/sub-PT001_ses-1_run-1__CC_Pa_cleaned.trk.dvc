@@ -1,0 +1,5 @@
+outs:
+- md5: abd4916cc8b62b464b5a406076f91329
+  size: 30396880
+  hash: md5
+  path: sub-PT001_ses-1_run-1__CC_Pa_cleaned.trk

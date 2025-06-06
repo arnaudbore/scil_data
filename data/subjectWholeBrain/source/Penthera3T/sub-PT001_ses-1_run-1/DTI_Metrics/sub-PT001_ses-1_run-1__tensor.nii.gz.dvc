@@ -1,0 +1,5 @@
+outs:
+- md5: e79eb60a79f1f0fd4c74e7ac6067c869
+  size: 34335027
+  hash: md5
+  path: sub-PT001_ses-1_run-1__tensor.nii.gz

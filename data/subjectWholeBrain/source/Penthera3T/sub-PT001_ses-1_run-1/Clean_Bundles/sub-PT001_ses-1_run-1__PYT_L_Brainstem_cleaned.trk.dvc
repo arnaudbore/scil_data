@@ -1,0 +1,5 @@
+outs:
+- md5: cdc625d5d7ff2d15072bbaa029b842da
+  size: 7008
+  hash: md5
+  path: sub-PT001_ses-1_run-1__PYT_L_Brainstem_cleaned.trk

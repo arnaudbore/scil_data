@@ -1,0 +1,5 @@
+outs:
+- md5: 65aa76754edbf3d36421fa1e14f01fb4
+  size: 1340
+  hash: md5
+  path: sub-PT001_ses-1_run-1__CG_L.trk

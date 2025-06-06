@@ -1,0 +1,5 @@
+outs:
+- md5: bf2947b4eebdbea1a243a194b594aa53
+  size: 263098502
+  hash: md5
+  path: sub-PT001_ses-1_run-1__dwi_dti.nii.gz

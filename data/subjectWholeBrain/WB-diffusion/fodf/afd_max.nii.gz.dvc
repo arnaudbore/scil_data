@@ -1,0 +1,5 @@
+outs:
+- md5: 5cadabe4cb4c8e4008d35c70283b1e1c
+  size: 4069226
+  hash: md5
+  path: afd_max.nii.gz

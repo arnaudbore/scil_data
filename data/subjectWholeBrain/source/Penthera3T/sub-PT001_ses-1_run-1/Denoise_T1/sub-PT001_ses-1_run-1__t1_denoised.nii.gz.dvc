@@ -1,0 +1,5 @@
+outs:
+- md5: f3dd7b6113e035be3b1552050ec3ebb1
+  size: 5957476
+  hash: md5
+  path: sub-PT001_ses-1_run-1__t1_denoised.nii.gz

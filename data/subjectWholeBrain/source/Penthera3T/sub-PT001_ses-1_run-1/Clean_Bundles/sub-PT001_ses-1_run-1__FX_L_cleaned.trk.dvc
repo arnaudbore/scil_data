@@ -1,0 +1,5 @@
+outs:
+- md5: fbece7ddf9ab3aacb5ab319b3b3031b8
+  size: 22540
+  hash: md5
+  path: sub-PT001_ses-1_run-1__FX_L_cleaned.trk

@@ -1,0 +1,5 @@
+outs:
+- md5: ba09a4e3de9be278ec1b51f7912efada
+  size: 25026
+  hash: md5
+  path: WB-segmentation.zip

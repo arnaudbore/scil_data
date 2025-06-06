@@ -1,0 +1,5 @@
+outs:
+- md5: be8cc80fac6542ea26169b143a91ba6b
+  size: 5603383
+  hash: md5
+  path: sub-PT001_ses-1_run-1__evals_e3.nii.gz

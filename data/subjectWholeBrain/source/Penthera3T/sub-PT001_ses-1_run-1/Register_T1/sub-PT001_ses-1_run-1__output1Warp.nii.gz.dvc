@@ -1,0 +1,5 @@
+outs:
+- md5: a4c6ff92fa5efaf34a65d90dc777fa7a
+  size: 58797862
+  hash: md5
+  path: sub-PT001_ses-1_run-1__output1Warp.nii.gz

@@ -1,0 +1,5 @@
+outs:
+- md5: 9115085c155c5961dffecbbbbdbcda78
+  size: 52528773
+  hash: md5
+  path: sub-PT001_ses-1_run-1__evecs.nii.gz

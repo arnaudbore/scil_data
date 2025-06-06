@@ -1,0 +1,5 @@
+outs:
+- md5: 1430e7b0571080b0ca8f18002682a761
+  size: 76338877
+  hash: md5
+  path: sub-PT001_ses-1_run-1__dwi_cropped.nii.gz

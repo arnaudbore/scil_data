@@ -1,0 +1,5 @@
+outs:
+- md5: bd2f64844eb04f8046788c47d5e4a122
+  size: 254812
+  hash: md5
+  path: wmparc.nii.gz

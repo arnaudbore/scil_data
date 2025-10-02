@@ -1,0 +1,5 @@
+outs:
+- md5: f3d94e387dd0b9c512825d670975e627
+  size: 2184
+  hash: md5
+  path: labels.nii.gz

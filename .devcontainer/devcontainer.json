@@ -43,7 +43,8 @@
                 ]
             },
             "extensions": [
-                "ms-python.autopep8"
+                "ms-python.autopep8",
+                "KorbinianEckstein.niivue"
             ]
         }
     },

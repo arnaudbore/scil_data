@@ -1,0 +1,5 @@
+outs:
+- md5: be17305ad2b2edc7621c88be15da074d
+  size: 74441
+  hash: md5
+  path: S001_T1_lesions_labels.nii.gz

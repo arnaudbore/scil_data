@@ -1,0 +1,6 @@
+outs:
+- md5: f54f30588abdee78d0360a110296aeae.dir
+  size: 14445
+  nfiles: 82
+  hash: md5
+  path: touch

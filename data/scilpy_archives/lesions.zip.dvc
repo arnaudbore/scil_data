@@ -1,0 +1,5 @@
+outs:
+- md5: dbd160b4c0c5d2db9cada875c0bbb00c
+  size: 34698
+  hash: md5
+  path: lesions.zip

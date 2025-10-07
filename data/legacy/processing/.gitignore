@@ -53,3 +53,5 @@
 /1000.bval
 /nfrf.txt
 /mni_masked_2x2x2.nii.gz
+/dwi_crop_1000_bad_strides.bvec
+/dwi_crop_1000_bad_strides.nii.gz

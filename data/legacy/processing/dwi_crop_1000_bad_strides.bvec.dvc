@@ -1,0 +1,5 @@
+outs:
+- md5: c868ac7bea7b516f68233f9a62f464e9
+  size: 729
+  hash: md5
+  path: dwi_crop_1000_bad_strides.bvec

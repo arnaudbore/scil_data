@@ -1,0 +1,5 @@
+outs:
+- md5: ad3520ad0d4b58f89bcda93c3ea0b23f
+  size: 8019158
+  hash: md5
+  path: dwi_crop_1000_bad_strides.nii.gz
